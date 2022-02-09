@@ -1,0 +1,12 @@
+@font-face {
+    font-family:  'vazri';
+    src : url('../fonts/vazir.eot a4fran3.eot') format('eot'),
+    url('../fonts/vazir.ttf a4fran3.ttf')  format('truetype'), 
+    url('../fonts/vazir.woff a4fran3.woff') format('woff'), 
+    url('../fonts/vazir.woff2') format('woff2');
+} 
+
+body {
+    font-family: 'vazir';
+    direction: rtl;
+}
